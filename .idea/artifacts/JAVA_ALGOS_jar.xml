@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAVA_ALGOS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVA_ALGOS_jar</output-path>
+    <root id="archive" name="JAVA_ALGOS.jar">
+      <element id="module-output" name="JAVA_ALGOS" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/exp4j-0.4.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
